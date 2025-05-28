@@ -1,0 +1,5 @@
+# Ignorar archivos temporales de Microsoft Office
+~$*
+
+# Opcional: Ignorar también los archivos temporales de guardado automático de Office (suelen empezar con ~ y terminar con .tmp)
+~*.tmp
